@@ -130,6 +130,3 @@ Computer Science (Cyber Security) Students
 
 ---
 
-If you want, I can also:
-✔ Make a **GitHub attractive version (badges + icons + emojis advanced)**
-✔ Or create a **project explanation slide for your PPT using this README**
